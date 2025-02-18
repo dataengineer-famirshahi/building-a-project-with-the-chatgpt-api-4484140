@@ -27,6 +27,10 @@ Software Engineering Manager, Speaker, Tech Blogger
                            
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/kesha-williams).
 
-## END
+## OBJECTIVE
+Build an application that reviews a website and summarizes the content in a tweet-friendly format. 
+
+
+
 
 
